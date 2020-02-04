@@ -21,14 +21,15 @@ public class Exercitiul8 {
 		System.out.println("Vineri");
 		break;
 		case 6:
-	    System.out.println("Sambata");
-	    break;
+	        System.out.println("Sambata");
+	        break;
+	        case 7:  
+		System.out.println("Duminica");
+		
+		
+		
+		
 		}
-		
-		
-		
-		
-		
 		
 
 	}
